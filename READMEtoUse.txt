@@ -1,5 +1,3 @@
-	2012400111
-	Abdullah Seleme Topuz
 -In the first upload, scp may ask yes/no question. Answer it yes and go.
 -When uploadaws.pl and downloadaws.pl running, if a directory already exists in remote, 
 	sftp> mkdir firstupload
